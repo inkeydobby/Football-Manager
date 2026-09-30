@@ -221,4 +221,4 @@ Football Manager 26 is available as a **full free version**, providing all featu
 Take charge of your club today! Download **Football Manager 26** and lead your team to victory!
 
 ---
-**Last updated:** 2026-09-30 00:12:43 UTC
+**Last updated:** 2026-09-30 06:28:46 UTC
